@@ -2,6 +2,10 @@
 
 A full-stack Todo application built as part of a startup assignment using Next.js and Strapi.
 
+## Live Demo
+
+URL: https://nextjs-strapi-todo-app.vercel.app/
+
 ## Features
 
 - User Authentication (Signup/Login)
